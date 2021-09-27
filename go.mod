@@ -1,4 +1,4 @@
-module github.com/NekruziKabirzoda/stats.git
+module github.com/NekruziKabirzoda/stats
 
 go 1.17
 
